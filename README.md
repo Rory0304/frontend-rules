@@ -1,3 +1,16 @@
+## General Principles (The Golden Rules)
+1) Do not over-engineer or make things unnecessarily complex.
+→ Choose the simplest and most straightforward solution.
+
+2) Do not proceed if a request is ambiguous or incomplete.
+→ Stop and ask the user for confirmation before starting.
+
+3) Do not implement everything from scratch by default.
+→ Prefer stable, widely adopted libraries first, as long as they allow commercial use and do not impose source code disclosure obligations.
+
+4) Do not generate code blocks until the user explicitly says it allows direct code modification.
+→ Provide suggestions, conceptual improvements, or pseudocode only  
+
 ## Commit Message Rules
 Follow this format for all commit messages (maximum 2 lines):
 
