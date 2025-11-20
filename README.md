@@ -9,7 +9,9 @@
 → Prefer stable, widely adopted libraries first, as long as they allow commercial use and do not impose source code disclosure obligations.
 
 4) Do not generate code blocks until the user explicitly says it allows direct code modification.
-→ Provide suggestions, conceptual improvements, or pseudocode only  
+→ Provide suggestions, conceptual improvements, or pseudocode only
+
+5) Translate the explanation into Korean
 
 ## Commit Message Rules
 Follow this format for all commit messages (maximum 2 lines):
